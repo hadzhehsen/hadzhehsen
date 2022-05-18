@@ -36,6 +36,7 @@
 
 <div align="center">
   
+  ![Svelte](https://img.shields.io/badge/Svelte-20231A?&style=for-the-badge&logo=Svelte)
   ![Web3.js](https://img.shields.io/badge/Web3-20231A?&style=for-the-badge&logo=Web3.js)
   ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&logo=Web3.js&logoColor=FFFFFF&label=)
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)

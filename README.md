@@ -66,11 +66,11 @@
 </div>
 
 <div align="center">
-  Additional skills and achievements
-· IT skills: Blockchain Mining, Microsoft package, Sony Vegas, Adobe Audition
-· Interests: photography, professional basketball, literature
-· Exchange trading: investments in cryptocurrencies since 2015, in securities of foreign and domestic companies, since 2017,
-· Sports: Basketball since 1999, CrossFit since 2018
+  Additional skills and achievements <br>
+· IT skills: Blockchain Mining, Microsoft package, Sony Vegas, Adobe Audition <br>
+· Interests: photography, professional basketball, literature <br>
+· Exchange trading: investments in cryptocurrencies since 2015, in securities of foreign and domestic companies, since 2017 <br>
+· Sports: Basketball since 1999, CrossFit since 2018 <br>
 </div>
 
 <!-- <div align="center">

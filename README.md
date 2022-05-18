@@ -13,7 +13,6 @@
   <br> <br>
   <samp>And something else: <a href="https://github.com/hadzhehsen/ded-helper" target="_blank">grandpa_helper</a>
   </samp>
-  <br>
 </p>
 
 

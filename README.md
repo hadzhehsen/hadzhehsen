@@ -1,6 +1,6 @@
-<h2 align="center">Hi there!🤘</h2>
+<h2 align="center">Welcome fellas</h2>
 <p align="center">
-  <samp>My name is Dzhikhad, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
+  <samp>My name is Dzhikhad, I'm 29 y.o. and i'm from Moscow! <br> I am a Fullstack JavaScript/TypeScript developer.
   </samp>
 </p>
 
@@ -63,6 +63,14 @@
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
   ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
   
+</div>
+
+<div align="center">
+  Additional skills and achievements
+· IT skills: Blockchain Mining, Microsoft package, Sony Vegas, Adobe Audition
+· Interests: photography, professional basketball, literature
+· Exchange trading: investments in cryptocurrencies since 2015, in securities of foreign and domestic companies, since 2017,
+· Sports: Basketball since 1999, CrossFit since 2018
 </div>
 
 <!-- <div align="center">

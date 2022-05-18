@@ -43,7 +43,7 @@
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![PostCss](https://img.shields.io/badge/PostCss-20232A?style=for-the-badge&logo=PostCss)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-20232A?style=for-the-badge&logo=Tailwind+CSS)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind+CSS)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)

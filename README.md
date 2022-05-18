@@ -41,6 +41,7 @@
   ![Svelte](https://img.shields.io/badge/Svelte-20231A?&style=for-the-badge&logo=Svelte)
   ![Web3.js](https://img.shields.io/badge/Web3-20231A?&style=for-the-badge&logo=Web3.js)
   ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+  ![PostCss](https://img.shields.io/badge/PostCss-20232A?style=for-the-badge&logo=PostCss)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)

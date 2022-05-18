@@ -2,7 +2,6 @@
 <p align="center">
   <samp>My name is Dzhikhad, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
   </samp>
-  <br> <br>
 </p>
 
 

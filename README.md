@@ -13,12 +13,12 @@
   <br> <br>
   <samp>And something else: <a href="https://github.com/hadzhehsen/ded-helper" target="_blank">grandpa_helper</a>
   </samp>
-  <br> <br>
+  <br>
 </p>
 
 
 <h2 align="center">💬 Reach me on</h2>
-
+<br>
 <p align="center" align='center'>
   <a target="_blank" href="mailto:skiptomylou999@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;

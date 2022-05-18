@@ -22,9 +22,10 @@
 
 <br><br>
 
+
 <p align="center" align='right'>
   <a target="_blank" href="mailto:skiptomylou999@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
+    src="![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/hadzhehsen"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -34,34 +35,37 @@
 <br><br>
 
 <div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+  
+  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
   ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
   ![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
-  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
   ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
-  ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
-  ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-  ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
-  ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
-  ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-  ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
-  ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
-  ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
-  ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-  ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
-  ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
-  ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
-  ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
-  ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
-
+  ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+  ![Redux-Saga](https://img.shields.io/static/v1?style=for-the-badge&message=Redux-Saga&color=999999&logo=Redux-Saga&logoColor=FFFFFF&label=)
+  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+  ![PostCSS](https://img.shields.io/static/v1?style=for-the-badge&message=PostCSS&color=DD3A0A&logo=PostCSS&logoColor=FFFFFF&label=)
+  ![Tailwind
+  CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+  ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+  ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+  ![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=)
+  ![React
+  Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
+  ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+  ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
+  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+  ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+  ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+  ![Npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+  ![ESLint](https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=)
+  ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=)
+  
 </div>
 
 <!-- <div align="center">

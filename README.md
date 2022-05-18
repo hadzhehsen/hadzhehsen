@@ -26,8 +26,10 @@
 <p align="center" align='right'>
   <a target="_blank" href="mailto:skiptomylou999@gmail.com"><img
     src="![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)"/></a>&nbsp;&nbsp;&nbsp;
+  </p>
+  <p align="center" align='right'>
   <a target="_blank" href="https://t.me/hadzhehsen"><img
-    src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
+    src="![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">My skills</h2>

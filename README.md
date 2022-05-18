@@ -36,6 +36,7 @@
 
 <div align="center">
   
+  ![Web3.js](https://img.shields.io/badge/Web3.js-20231A?&style=for-the-badge&logo=Web3.js)
   ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&logo=Web3.js&logoColor=FFFFFF&label=)
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
   ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)

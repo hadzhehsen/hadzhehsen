@@ -1,4 +1,4 @@
-<h2 align="center">Welcome fellas</h2>
+<h2 align="center">Welcome fellas 🤘</h2>
 <p align="center">
   <samp>My name is Dzhikhad, I'm 29 y.o. and i'm from Moscow! <br> I am a Fullstack JavaScript/TypeScript developer.
   </samp>
@@ -16,7 +16,7 @@
 </p>
 
 
-<h2 align="center">💬 Reach me on</h2>
+<h2 align="center"> Reach me on 💬 </h2>
 <br>
 <p align="center" align='center'>
   <a target="_blank" href="mailto:skiptomylou999@gmail.com"><img
@@ -27,7 +27,7 @@
       src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">My skills</h2>
+<h2 align="center">My skills 🦾 </h2>
 
 <br>
 
@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <h2>Additional skills and achievements </h2> <br>
+  <h2>Additional skills and achievements 💪 🎓 💻 </h2> <br>
    <samp>
 · IT skills: Blockchain Mining, Microsoft package, Sony Vegas, Adobe Audition <br>
 · Interests: Photography, professional basketball, literature <br>

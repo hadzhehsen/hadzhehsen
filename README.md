@@ -10,9 +10,9 @@
 <p align="center">
   <samp>Check out my latest project: <a href="https://github.com/hadzhehsen/elbrus_smart_chain" target="_blank">bitfröst nft marketplace</a>
   </samp>
-  <br> <br>
+<!--   <br> <br>
   <samp>And something else: <a href="https://github.com/hadzhehsen/ded-helper" target="_blank">grandpa_helper</a>
-  </samp>
+  </samp> -->
 </p>
 
 

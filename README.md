@@ -43,7 +43,6 @@
   ![Html5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![PostCss](https://img.shields.io/badge/PostCss-20232A?style=for-the-badge&logo=PostCss)
   ![Bulma](https://img.shields.io/badge/Bulma-20232A?style=for-the-badge&logo=Bulma)
-<!--   ![Iconify](https://img.shields.io/badge/Iconify-20232A?style=for-the-badge&logo=Iconify) -->
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind+CSS)
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)

@@ -35,9 +35,9 @@
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Svelte](https://img.shields.io/badge/Svelte-20231A?&style=for-the-badge&logo=Svelte)
-  ![Web3.js](https://img.shields.io/badge/Web3-20231A?&style=for-the-badge&logo=Web3.js)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-20231A?&style=for-the-badge&logo=Ethereum)
+  ![Svelte](https://img.shields.io/badge/Svelte-20232A?&style=for-the-badge&logo=Svelte)
+  ![Web3.js](https://img.shields.io/badge/Web3-20232A?&style=for-the-badge&logo=Web3.js)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-20232A?&style=for-the-badge&logo=Ethereum)
   ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
   ![Html5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)

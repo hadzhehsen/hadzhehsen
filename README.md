@@ -50,7 +50,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-  ![Solidity](https://img.shields.io/badge/Solidity-20231A?&style=for-the-badge&logo=Solidity)
+  ![Solidity](https://img.shields.io/badge/Solidity-20232A?&style=for-the-badge&logo=Solidity)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)

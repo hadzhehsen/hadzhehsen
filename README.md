@@ -52,7 +52,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![Solidity](https://img.shields.io/badge/Solidity-20232A?&style=for-the-badge&logo=Solidity)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
-  ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io)
+  <!-- ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io) -->
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)

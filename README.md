@@ -44,7 +44,6 @@
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
   ![Html5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![PostCss](https://img.shields.io/badge/PostCss-20232A?style=for-the-badge&logo=PostCss)
-  
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)

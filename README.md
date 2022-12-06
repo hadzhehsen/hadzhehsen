@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+  ![TypeScript]([https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript))
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![Svelte](https://img.shields.io/badge/Svelte-20232A?&style=for-the-badge&logo=Svelte)
   ![Web3.js](https://img.shields.io/badge/Web3-20232A?&style=for-the-badge&logo=Web3.js)

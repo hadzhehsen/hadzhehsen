@@ -35,6 +35,8 @@
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+  ![Next.js](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjs)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind+CSS)
   ![Svelte](https://img.shields.io/badge/Svelte-20232A?&style=for-the-badge&logo=Svelte)
   ![Web3.js](https://img.shields.io/badge/Web3-20232A?&style=for-the-badge&logo=Web3.js)
   ![Ethereum](https://img.shields.io/badge/Ethereum-20232A?&style=for-the-badge&logo=Ethereum)
@@ -42,12 +44,11 @@
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
   ![Html5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
   ![PostCss](https://img.shields.io/badge/PostCss-20232A?style=for-the-badge&logo=PostCss)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind+CSS)
+  
   ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![Solidity](https://img.shields.io/badge/Solidity-20232A?&style=for-the-badge&logo=Solidity)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   <!-- ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io) -->

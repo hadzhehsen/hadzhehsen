@@ -35,8 +35,7 @@
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Next.js]([https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next+js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next)
-  
+  ![Next.js](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next+js)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind+CSS)
   ![Svelte](https://img.shields.io/badge/Svelte-20232A?&style=for-the-badge&logo=Svelte)
   ![Web3.js](https://img.shields.io/badge/Web3-20232A?&style=for-the-badge&logo=Web3.js)

@@ -27,9 +27,9 @@
       src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">My skills 🦾 </h2>
+<!-- <h2 align="center">My skills 🦾 </h2> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <div align="center">
   
@@ -51,12 +51,12 @@
   ![Solidity](https://img.shields.io/badge/Solidity-20232A?&style=for-the-badge&logo=Solidity)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma)
   <!-- ![Socket.io](https://img.shields.io/badge/socket.io-20232A?style=for-the-badge&logo=socket.io) -->
-  ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
+<!--   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
   ![Gitlab](https://img.shields.io/badge/Gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-  ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
+  ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA) -->
 <!--   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->
 <!--   ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier) -->
   

@@ -31,7 +31,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -60,7 +60,7 @@
 <!--   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm) -->
 <!--   ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier) -->
   
-</div>
+</div> -->
 
 <div align="center">
   <h2>Additional skills and achievements 💪 🎓 💻 </h2> <br>

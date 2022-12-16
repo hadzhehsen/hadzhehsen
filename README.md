@@ -1,6 +1,6 @@
 <h2 align="center">Welcome fellas 🤘</h2>
 <p align="center">
-  <samp>My name is Dzhikhad, I'm 29 y.o. and i'm from Ankara! <br> I am a Frontend developer.
+  <samp>My name is Jihad, I'm 29 y.o. and i'm from Ankara! <br> I am a Frontend developer.
   </samp>
 </p>
 

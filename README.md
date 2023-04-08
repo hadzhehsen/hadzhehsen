@@ -1,6 +1,5 @@
 <p align="center">
-  <samp>My name is Jihad, I'm 29 y.o. and i'm from Ankara! <br> I am a Front-end developer.
-  </samp>
+  <samp>Jihad</samp>
 </p>
 
 

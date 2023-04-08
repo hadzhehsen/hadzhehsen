@@ -1,8 +1,3 @@
-<p align="center">
-  <samp>Jihad</samp>
-</p>
-
-
 <p align="center" align='center'>
   <a target="_blank" href="mailto:skiptomylou999@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;

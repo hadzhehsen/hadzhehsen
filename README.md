@@ -8,12 +8,7 @@
 </p>
 
 <div align="center">
-  <h2>Additional skills and achievements 💪 🎓 💻 </h2> <br>
-   <samp>
 · Interests: professional basketball, weightlifting <br>
-· Exchange trading: Investments in cryptocurrencies since 2015, in stocks, since 2017 <br>
-· Sports: Basketball since 1999, CrossFit since 2018 </samp> <br>
-     
 </div>
 
 

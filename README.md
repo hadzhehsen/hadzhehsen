@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-· Interests: professional basketball, weightlifting <br>
+· Interests: basketball, weightlifting <br>
 </div>
 
 
